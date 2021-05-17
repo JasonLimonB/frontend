@@ -1,0 +1,17 @@
+.parent{
+    display: flex;
+    justify-content: space-around; /* we indicated that our items take all horizontal space */
+    /* we have many tags like: space-between,  center, flex-start and flex-end*/
+    flex-direction: row-reverse; /* here is for  1 2 3 4 5 to 5 4 3 2 1 */
+    /* the value for default in flex-direction is row */
+}
+
+.child{
+    width: 200px;
+    height: 200px;
+    background: #485FC8;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
