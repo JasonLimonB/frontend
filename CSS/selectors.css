@@ -1,0 +1,37 @@
+.color{
+    background: rgba(13, 56, 175, 0.767);
+    color: #fff;
+}
+
+#miId{
+    background: rgb(13, 134, 108);
+    color: #fff;
+}
+
+.border{
+    border: 1px solid #000;
+}
+
+.border2{
+    margin-top: 10px;
+    border:1px solid #000;
+    border-radius: 4px;
+}
+.margin{
+    margin-top: 30px;
+}
+
+.padding{
+    background: rgba(11, 45, 194, 0.822);
+    color: #fff;
+    padding: 40px;
+}
+
+.font{
+    font-family: sans-serif;
+}
+
+.size{
+    font-family: sans-serif;
+    font-size: 30px;
+}
